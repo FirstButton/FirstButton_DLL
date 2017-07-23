@@ -1,6 +1,8 @@
 This Zip file contains:
 -------------------------
-FirstButton.dll 
+FirstButton.dll - signed with a SHA-1 certificate, compatible with Windows 98/Me/NT/2000
+
+FirstButton_256.dll - signed with a SHA-256 certificate, compatible with Windows XP - Windows 10
 
 \FirstButton\ - folder with all source code files, compatible with Visual Studio 2005
 		FirstButton.sln  FirstButton.sou
@@ -15,4 +17,4 @@ gpl.odt  gpl.pdf  gpl.txt  - GNU General Public License - license under which Fi
 For updates, please visit www.liquiditylighthouse.com .
 
 
-(c) 2015 Liquidity Lighthouse, LLC.
+(c) 2015-2017 Liquidity Lighthouse, LLC.

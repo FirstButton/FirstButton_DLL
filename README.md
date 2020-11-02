@@ -6,7 +6,7 @@ When using a version of Visual Studio higher than VS 2010, please see the \First
 
 DLL Documentation.pdf  - covers the parameters that are used to call the FirstButton.dll, and error code definitions.
 
-\FirstButton\ - folder with all source code files, compatible with Visual Studio 2005
+\FirstButton\ - folder with all source code files, compatible with Visual Studio 2005 and Visual Studio 2010
 
 		  FirstButton.sln  FirstButton.sou
 

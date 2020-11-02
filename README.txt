@@ -1,4 +1,5 @@
-When using a version of Visual Studio higher than VS 2010, please see the \FirstButton_DLL_2020\ repository on github and the unsigned FirstButton.dll in that folder for compatibility with calling programs.
+When using a version of Visual Studio higher than VS 2010, please see the \FirstButton_DLL_2020\ repository on github and the unsigned FirstButton.dll
+ in that folder for compatibility with calling programs.
 
 DLL Documentation.pdf  - covers the parameters that are used to call the FirstButton.dll, and error code definitions.
 
